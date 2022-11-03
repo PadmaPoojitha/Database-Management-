@@ -1,0 +1,26 @@
+body{
+  background-color:#f4f4f4;
+  color:#333;
+  font: normal 18px Arial, Helvetica, sans-serif;
+  line-height:1.6em;
+  width:70%;
+  margin:auto;
+}
+
+th,td{
+  text-align: center;
+  border: 3px #555555 solid;
+  padding: 10px;
+}
+
+table{
+  background-color:#333;
+  color:#fff;
+  border: 4px black solid;
+  border-collapse: collapse;
+}
+.container{
+  font-weight: bold;
+  font-size: 24px;
+  text-decoration: underline;
+}
