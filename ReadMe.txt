@@ -9,4 +9,4 @@ Files:
 •	master.css (CSS)
 
 The DatabaseSql file represents the SQL code we used to create our database; we used the phpMyAdmin DBMS. We then imported the CSV files located in the DataFromKaggle folder, using phpMyAdmin’s import function, and had to do minimal data cleaning for that file transfer to take place. At this point, you should have a fully operational database that will interact with the contact.php file. We created the master.css file to improve the website’s aesthetics, which was included in the contact.php file.
-(Optional)We utilized XAMPP and Apache to put our database online. William Lakeman port forwarded his network to allow the database to be accessible from his computer’s public IP address.
+(Optional)We utilized XAMPP and Apache to put our database online. The member of the project port forwarded his network to allow the database to be accessible from his computer’s public IP address.
